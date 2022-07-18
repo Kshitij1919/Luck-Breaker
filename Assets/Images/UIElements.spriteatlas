@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIElements
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b3684e34a67e00149b6cc8648ad43137, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 35bbc721107703d4881c331a736efc1c, type: 3}
+  - {fileID: 21300000, guid: c04d14c233ab9a54693d1de8e0cc9a04, type: 3}
+  - {fileID: 21300000, guid: ddb19a13ea0b8ec40a3ae5c8abff8cb4, type: 3}
+  - {fileID: 21300000, guid: 71e990e4a3f3841478dadf6318fe9e79, type: 3}
+  - {fileID: 21300000, guid: 9a8353f69ae5fbb45a2e58e073ff704e, type: 3}
+  - {fileID: 21300000, guid: 9fa37d77294967e458385358b2131694, type: 3}
+  - {fileID: 21300000, guid: e3fd93e8040df80469a017f2db312af0, type: 3}
+  - {fileID: 21300000, guid: 83cb96da45dc4e04792ef20601f1aa24, type: 3}
+  - {fileID: 21300000, guid: 2b77618c09d2ddf458f9df75375ef7e1, type: 3}
+  - {fileID: 21300000, guid: 28da46ded51604044814b2c5c70a0d51, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - neon bricks
+  - green_panel
+  - musicOff
+  - neon background 2
+  - neon background 1
+  - play-button
+  - neon background 3
+  - back
+  - musicOn
+  - credits
+  m_RenderDataMap: {}
+  m_Tag: UIElements
+  m_IsVariant: 0
